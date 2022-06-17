@@ -1,0 +1,10 @@
+[
+  {
+    "package": "sparseMVN",
+    "oncran": true
+  },
+  {
+    "package": "trustOptim",
+    "oncran": true
+  }
+]

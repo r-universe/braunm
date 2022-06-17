@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sparseMVN"]
+	path = sparseMVN
+	url = https://github.com/braunm/sparsemvn
+	shallow = true
+	registered = true
+[submodule "trustOptim"]
+	path = trustOptim
+	url = https://github.com/braunm/trustoptim
+	shallow = true
+	registered = true
