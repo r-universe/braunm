@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sparseMVN"]
-	path = sparseMVN
-	url = https://github.com/braunm/sparsemvn
-	shallow = true
-	registered = true
 [submodule "sparseHessianFD"]
 	path = sparseHessianFD
 	url = https://github.com/braunm/sparsehessianfd
+	shallow = true
+	registered = true
+[submodule "sparseMVN"]
+	path = sparseMVN
+	url = https://github.com/braunm/sparsemvn
 	shallow = true
 	registered = true
 [submodule "trustOptim"]
