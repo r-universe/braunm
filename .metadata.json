@@ -1,10 +1,10 @@
 [
   {
-    "package": "sparseHessianFD",
+    "package": "sparseMVN",
     "oncran": true
   },
   {
-    "package": "sparseMVN",
+    "package": "sparseHessianFD",
     "oncran": true
   },
   {
